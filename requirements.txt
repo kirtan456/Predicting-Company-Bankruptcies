@@ -1,0 +1,43 @@
+Here's a brief description of some key categories:
+Profitability Ratios: 
+Various Return on Assets (ROA) measures
+Operating Gross Margin
+Operating Profit Rate
+Net Interest Rates (pre-tax and after-tax)
+Growth Rates: 
+Sales Growth Rate
+Profit Growth Rates (Operating, After-tax, Regular, Continuous)
+Asset and Net Value Growth Rates
+Per Share Metrics: 
+Earnings Per Share (EPS)
+Cash Flow Per Share
+Revenue Per Share
+Net Value Per Share
+Liquidity Ratios: 
+Current Ratio
+Quick Ratio
+Cash Ratio
+Solvency and Leverage Ratios: 
+Debt Ratio
+Interest Coverage Ratio
+Debt to Equity Ratio
+Efficiency Ratios: 
+Asset Turnover Ratios
+Inventory Turnover
+Accounts Receivable Turnover
+Fixed Asset Turnover
+Cash Flow Indicators: 
+Cash Flow to Sales
+Cash Flow to Assets
+Cash Flow to Liability
+Operational Efficiency: 
+Revenue per Person
+Operating Profit per Person
+Working Capital Metrics: 
+Working Capital to Total Assets
+Inventory to Working Capital
+Other Financial Indicators: 
+Tax Rate
+Research and Development Expense Rate
+Degree of Financial Leverage (DFL)
+
